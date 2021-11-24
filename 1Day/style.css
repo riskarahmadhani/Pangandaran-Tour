@@ -1,0 +1,58 @@
+h2 {
+  color: #0d6efd;
+  padding-bottom: 30px;
+}
+.col-md-4 {
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  background: #e2edff;
+  color: #0d6efd;
+}
+
+footer,
+.navbar {
+  background-color: #444;
+}
+
+footer span,
+.navbar .container a span {
+  color: #0d6efd;
+}
+
+.destinasi,
+.distribusi,
+.itinerary {
+  padding: 100px 0 50px 0;
+}
+
+/* destinasi */
+.destinasi img {
+  height: 100%;
+}
+
+/* harga */
+.harga {
+  padding-bottom: 50px;
+}
+.harga {
+  background-color: #e2edff;
+}
+
+/* footer */
+footer .credit {
+  padding: 0.5rem 0.5rem 0 0;
+  font-size: 1.1rem;
+  font-weight: normal;
+  color: #fff;
+}
+
+footer p img {
+  width: 20px;
+}
+
+footer a img {
+  width: 20px;
+  margin: 0 1% 2% 2%;
+}
