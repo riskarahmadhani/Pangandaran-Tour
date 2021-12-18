@@ -6,6 +6,6 @@ const sr = ScrollReveal({
   reset: true,
 });
 
-sr.reveal(" .content, .col-md-4, .col-md-6 ", {
+sr.reveal(" .content, .col-md-4, .col-md-6, .col-md-8 ", {
   interval: 200,
 });
